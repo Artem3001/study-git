@@ -7,3 +7,4 @@ dddd.txt
 1
 0
 add new line (-_-)
+add 2nd new line ()!
