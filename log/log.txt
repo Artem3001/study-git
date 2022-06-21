@@ -9,10 +9,4 @@ qwerty
 <<<<<<< refs/remotes/origin/fix/ONCO-1455-overlayMessage
 aezakmi
 help
-=======
 aezakmi
->>>>>>> test(e2e): изменен файл log.txt
-=======
-aezakmi
-help
->>>>>>> test(e2e): изменен log.txt
