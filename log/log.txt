@@ -6,3 +6,4 @@
 6
 qwerty
 aezakmi
+help
