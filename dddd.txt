@@ -6,3 +6,4 @@ dddd.txt
 2
 1
 0
+add new line (-_-)
